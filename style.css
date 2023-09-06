@@ -1,13 +1,14 @@
 .overskrift{
     color: red;
 }
-.ul {
+ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
 }
-.li {
+li {
     display: inline-block;
     margin: 30px;
+    text-decoration: none;
 
 }
