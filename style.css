@@ -1,10 +1,24 @@
-.overskrift{
-    color: black;
+body{
+    margin: 0;
+
 }
 header{
     background: black;
 }
 
+.overskrift{
+    text-align: center;
+
+}
+.uOverskrift{
+    text-align: center;
+
+
+}
+.pHome{
+    text-align: center;
+
+}
 p{
     font-family: Serif;
     font-size: 17px;
@@ -30,12 +44,10 @@ li {
 a{
     text-decoration: none;
     color: white;
+    font-size: 25px;
 
 }
 
 a:hover{
-    color: red;
-}
-.pHome{
-    text-align: center;
+    color: darkgoldenrod;
 }
