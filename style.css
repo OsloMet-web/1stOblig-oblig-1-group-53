@@ -15,12 +15,14 @@ li {
 
     display: inline-block;
     margin: 30px;
+    color: white;
 
 
 }
 
 a{
     text-decoration: none;
+
 }
 
 a:hover{
