@@ -4,6 +4,12 @@
 header{
     background: black;
 }
+
+p{
+    font-family: Serif;
+    font-size: 17px;
+
+}
 ul {
     margin: 0;
     padding: 0;
