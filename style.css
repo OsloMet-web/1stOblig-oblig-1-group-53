@@ -41,13 +41,22 @@ li {
 
 }
 
-a{
+a.meny{
     text-decoration: none;
     color: white;
     font-size: 25px;
 
 }
 
-a:hover{
+a.meny:hover{
     color: darkgoldenrod;
+}
+
+a:hover{
+    color: black;
+}
+
+
+footer{
+    color: black;
 }
