@@ -56,6 +56,11 @@ a:hover{
     color: black;
 }
 
+a{
+    font-size: 25px;
+    color: black;
+}
+
 
 footer{
     color: black;
