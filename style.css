@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+
+}
+header{
+    background: black;
+}
+
+.overskrift{
+    text-align: center;
+
+}
+.uOverskrift{
+    text-align: center;
+
+
+}
+.pHome{
+    text-align: center;
+
+}
+p{
+    font-family: Serif;
+    font-size: 17px;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+
+
+}
+li {
+
+    display: inline-block;
+    margin: 30px;
+
+
+
+}
+
+a.meny{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+
+}
+
+a.meny:hover{
+    color: darkgoldenrod;
+}
+
+a:hover{
+    color: black;
+}
+
+a{
+    font-size: 25px;
+    color: black;
+}
+
+
+footer{
+    color: black;
+}
